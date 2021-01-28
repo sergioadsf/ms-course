@@ -1,13 +1,13 @@
-package br.com.conectasol.hrapigatwayzuul;
+package br.com.conectasol.hrapigatewayzuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrApiGatwayZuulApplication {
+public class HrApiGatewayZuulApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrApiGatwayZuulApplication.class, args);
+		SpringApplication.run(HrApiGatewayZuulApplication.class, args);
 	}
 
 }

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.conectasol</groupId>
-	<artifactId>hr-api-gatway-zuul</artifactId>
+	<artifactId>hr-api-gateway-zuul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-api-gatway-zuul</name>
+	<name>hr-api-gateway-zuul</name>
 	<description>Zuul Server</description>
 	<properties>
 		<java.version>11</java.version>
